@@ -1,0 +1,12 @@
+{
+  "name": "lab_exec5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Minh Duc Cung - Lab 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
